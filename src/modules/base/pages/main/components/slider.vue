@@ -1,8 +1,8 @@
 <template>
 	<div class="app-slider">
 		<div class="app-slider__logo">
-			<img src="/logo.png" />
-			<span v-if="!app.isFold || browser.isMini">{{ app.info.name }}</span>
+			<img src="/freekick-logo.png" />
+			<!-- <span v-if="!app.isFold || browser.isMini">{{ app.info.name }}</span> -->
 		</div>
 
 		<div class="app-slider__container">
@@ -34,8 +34,8 @@ const { app } = useBase();
 		cursor: pointer;
 
 		img {
-			height: 30px;
-			width: 30px;
+			height: 180px;
+			width: 180px;
 		}
 
 		span {

@@ -1,0 +1,44 @@
+[
+	{
+		"league": "ENG-Premier League",
+		"league_id": 47,
+		"season": "2324",
+		"season_id": "2023/2024",
+		"url": "https://fotmob.com/leagues/47/overview/premier-league?season=2023/2024"
+	},
+	{
+		"league": "ESP-La Liga",
+		"league_id": 87,
+		"season": "2324",
+		"season_id": "2023/2024",
+		"url": "https://fotmob.com/leagues/87/overview/laliga?season=2023/2024"
+	},
+	{
+		"league": "FRA-Ligue 1",
+		"league_id": 53,
+		"season": "2324",
+		"season_id": "2023/2024",
+		"url": "https://fotmob.com/leagues/53/overview/ligue-1?season=2023/2024"
+	},
+	{
+		"league": "GER-Bundesliga",
+		"league_id": 54,
+		"season": "2324",
+		"season_id": "2023/2024",
+		"url": "https://fotmob.com/leagues/54/overview/bundesliga?season=2023/2024"
+	},
+	{
+		"league": "INT-Women's World Cup",
+		"league_id": 76,
+		"season": "2324",
+		"season_id": "2023",
+		"url": "https://fotmob.com/leagues/76/overview/womens-world-cup?season=2023"
+	},
+	{
+		"league": "ITA-Serie A",
+		"league_id": 55,
+		"season": "2324",
+		"season_id": "2023/2024",
+		"url": "https://fotmob.com/leagues/55/overview/serie?season=2023/2024"
+	}
+]

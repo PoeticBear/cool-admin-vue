@@ -111,7 +111,7 @@ request.interceptors.response.use(
 		}
 
 		const { code, data, message } = res.data;
-
+		console.log("res.data", res.data);
 		if (!code) {
 			return res.data;
 		}

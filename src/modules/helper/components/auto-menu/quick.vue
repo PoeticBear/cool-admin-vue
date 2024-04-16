@@ -190,7 +190,6 @@ function open() {
 		on: {
 			async submit(data, { done, close }) {
 				const { api, prefix, columns } = list.find((e) => e.value == data.entity.join("/"));
-
 				// 是否需要ai分析
 				if (data.isAi) {
 					await matchType({ columns, name: data.name });

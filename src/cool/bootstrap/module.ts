@@ -92,6 +92,7 @@ export function createModule(app: App) {
 
 		// 注册指令
 		e.directives?.forEach((v: any) => {
+			console.log("注册指令", v.name, v.value);
 			app.directive(v.name, v.value);
 		});
 

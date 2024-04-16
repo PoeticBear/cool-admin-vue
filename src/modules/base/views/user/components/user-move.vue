@@ -8,6 +8,7 @@
 import { useCool } from "/@/cool";
 import { ElMessage, ElMessageBox } from "element-plus";
 import { useCrud, useForm } from "@cool-vue/crud";
+import { onMounted } from "vue";
 
 const { service } = useCool();
 const Form = useForm();
